@@ -16,7 +16,7 @@ int main() {
 	string email, V, _from, _to;
 	int arestas;
 
-	//teste
+	
 
 	grafo * G = grafo::fabrica_grafo();
 
@@ -54,7 +54,7 @@ int main() {
 	*/
 	
 
-	
+	//G->grava_pajek();
 	 
 	
 	
