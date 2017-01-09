@@ -16,8 +16,7 @@ int main() {
 	string email, V, _from, _to;
 	int arestas;
 
-	//teste	
-	//atualizacao 2
+	//teste
 
 	grafo * G = grafo::fabrica_grafo();
 
