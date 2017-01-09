@@ -1,0 +1,15 @@
+Name	Gene(s)	Condition(s)	Frequency	Clinical significance (Last reviewed)	Review status	Chromosome	Location	Assembly	VariationID	AlleleID(s)	
+IL6, -174G-C	IL6|BIRL|COELHO	Diabetes mellitus type 2|Crohn disease-associated growth failure, susceptibility to|Diabetes mellitus, insulin-dependent, susceptibility to|Rheumatoid arthritis, systemic juvenile, susceptibility to|Kaposi sarcoma, susceptibility to|Intracranial hemorrhage in brain cerebrovascular malformations, susceptibility to		risk factor(Last reviewed: Sep 1, 2007)	no assertion criteria provided			GRCh38	14718	29757
+NM_003239.2:c.698A>T	TGFB3	Cardiovascular phenotype		Uncertain significance(Last reviewed: May 15, 2015)	criteria provided, single submitter			GRCh38	263997	259215
+NM_000090.3:c.4059T>G	COL3A1	Thoracic aortic aneurysm and aortic dissection		Benign(Last reviewed: Nov 19, 2014)	criteria provided, single submitter			GRCh38	263846	259214
+NM_000138.4:c.1415G>A	FBN1	Thoracic aortic aneurysm and aortic dissection		Benign(Last reviewed: Aug 7, 2015)	criteria provided, single submitter			GRCh38	263845	259213
+NM_004006.2:c.7096A>C	DMD	Cardiovascular phenotype		Benign(Last reviewed: Mar 27, 2015)	criteria provided, single submitter			GRCh38	263800	259212
+NM_004612.2:c.76_78delCGC	TGFBR1	Thoracic aortic aneurysm and aortic dissection		Benign(Last reviewed: Jun 4, 2013)	criteria provided, single submitter			GRCh38	263659	259211
+NM_004612.2:c.76_78dupCG	TGFBR1	Thoracic aortic aneurysm and aortic dissection		Benign(Last reviewed: Mar 25, 2013)	criteria provided, single submitter			GRCh38	263574	259210
+NM_002474.2:c.5919+5C>G	MYH11	Thoracic aortic aneurysm and aortic dissection		Benign(Last reviewed: Dec 27, 2012)	criteria provided, single submitter			GRCh38	263467	259209
+NM_004006.2:c.8810G>A	DMD	Cardiovascular phenotype		Benign(Last reviewed: Mar 11, 2015)	criteria provided, single submitter			GRCh38	263461	259208
+NM_133378.4:c.86951_86953delGGA	TTN	Cardiovascular phenotype		Uncertain significance(Last reviewed: Nov 26, 2012)	criteria provided, single submitter			GRCh38	263439	259207
+NM_004006.2:c.2645A>G	DMD	Cardiovascular phenotype		Benign(Last reviewed: Mar 11, 2015)	criteria provided, single submitter			GRCh38	263429	259206
+NM_032578.2:c.2886T>C	MYPN	Cardiovascular phenotype		Benign(Last reviewed: Mar 11, 2015)	criteria provided, single submitter			GRCh38	263374	259205
+NM_004415.2:c.2091A>G	DSP	Cardiovascular phenotype		Benign(Last reviewed: Mar 9, 2015)	criteria provided, single submitter			GRCh38	263372	259204
+NM_004415.2:c.741T>G	DSP	Cardiovascular phenotype		Benign(Last reviewed: Mar 9, 2015)	criteria provided, single submitter			GRCh38	263371	259203
